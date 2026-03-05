@@ -1,0 +1,8 @@
+2026/03/01-18:42:03.021 2fb4 Recovering log #95
+2026/03/01-18:42:03.030 2fb4 Delete type=0 #95
+2026/03/01-18:42:03.030 2fb4 Delete type=3 #93
+2026/03/01-22:22:50.393 5ac Level-0 table #100: started
+2026/03/01-22:22:50.394 5ac Level-0 table #100: 0 bytes OK
+2026/03/01-22:22:50.397 5ac Delete type=0 #98
+2026/03/01-22:22:50.407 5ac Manual compaction at level-0 from '!folders!UvsyDJZZ1pqotauU' @ 72057594037927935 : 1 .. '!items.effects!4Sa8PxbG8NctVNET.wkWK2W6OmuHj56se' @ 0 : 0; will stop at (end)
+2026/03/01-22:22:50.408 5ac Manual compaction at level-1 from '!folders!UvsyDJZZ1pqotauU' @ 72057594037927935 : 1 .. '!items.effects!4Sa8PxbG8NctVNET.wkWK2W6OmuHj56se' @ 0 : 0; will stop at (end)

@@ -1,0 +1,8 @@
+2026/03/01-18:42:03.039 2fb8 Recovering log #95
+2026/03/01-18:42:03.048 2fb8 Delete type=0 #95
+2026/03/01-18:42:03.048 2fb8 Delete type=3 #93
+2026/03/01-22:22:50.383 5ac Level-0 table #100: started
+2026/03/01-22:22:50.383 5ac Level-0 table #100: 0 bytes OK
+2026/03/01-22:22:50.386 5ac Delete type=0 #98
+2026/03/01-22:22:50.386 5ac Manual compaction at level-0 from '!tables!Kmav0FNZpvBassKq' @ 72057594037927935 : 1 .. '!tables.results!Kmav0FNZpvBassKq.t8D3yXMs0pw2nkkR' @ 0 : 0; will stop at (end)
+2026/03/01-22:22:50.386 5ac Manual compaction at level-1 from '!tables!Kmav0FNZpvBassKq' @ 72057594037927935 : 1 .. '!tables.results!Kmav0FNZpvBassKq.t8D3yXMs0pw2nkkR' @ 0 : 0; will stop at (end)

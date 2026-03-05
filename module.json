@@ -1,0 +1,61 @@
+{
+  "id": "bard-subclass-college-of-gambit",
+  "title": "Bard Subclass College of Gambit",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>A new Bard subclass from Antares! If you like risk, gambling, unexpected results and rollable tables, this is the subclass for you! Gamble your luck and see what crazy thing happen. This subclass introduces the Table of Improbable Chance, a 1D100 table!</p>",
+  "authors": [
+    {
+      "name": "GM Estmon",
+      "email": "theeastmon@gmail.com",
+      "url": "https://www.youtube.com/@MasterEstmon",
+      "discord": "Estmon",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.youtube.com/@MasterEstmon",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "college-of-gambit-pdf",
+      "label": "College of Gambit PDF",
+      "path": "packs/college-of-gambit-pdf",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "college-of-gambit-subclass-and-features",
+      "label": "College of Gambit Subclass & Features",
+      "path": "packs/college-of-gambit-subclass-and-features",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "college-of-gambit-rollable-table",
+      "label": "College of Gambit Rollable Table",
+      "path": "packs/college-of-gambit-rollable-table",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
